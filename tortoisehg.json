@@ -13,9 +13,9 @@
             "hash": "02192542a79b8bc4b312f087cd71242ae6a04fe6c47dcf3d6f78e2cd29e725a8"
         }
     },
-    "extract_dir": "TortoiseHg",
+    "extract_dir": "PFiles\\TortoiseHg",
     "bin": [
-        "TortoiseHg\\thgw.exe"
+        "thgw.exe"
     ],
     "checkver": {
         "url": "https://www.mercurial-scm.org/release/tortoisehg/windows/",
@@ -23,7 +23,7 @@
     },
     "shortcuts": [
         [
-            "TortoiseHg\\thgw.exe",
+            "thgw.exe",
             "TortoiseHg Workbench"
         ]
     ]
