@@ -14,7 +14,9 @@
         }
     },
     "extract_dir": "TortoiseHg",
-    "bin": "TortoiseHg\\thgw.exe",
+    "bin": [
+        "TortoiseHg\\thgw.exe"
+    ],
     "checkver": {
         "url": "https://www.mercurial-scm.org/release/tortoisehg/windows/",
         "re": "tortoisehg-([\\d\\.]+)-(x64|x86).msi"
